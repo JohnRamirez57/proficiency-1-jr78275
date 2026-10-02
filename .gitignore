@@ -1,0 +1,4 @@
+/bin/tinyheap
+/bin/tinyheap.o
+/outputs/
+*.dSYM/

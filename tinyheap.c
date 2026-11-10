@@ -72,6 +72,7 @@ void tinyheap_free(int start)
     for (int offset = 0; offset < length; ++offset) {
         owner[start + offset] = -1;
     }
+    allocation_length[start] = 0;
     free_slots += length;
     puts("freed");
 }

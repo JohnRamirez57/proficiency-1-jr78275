@@ -1,0 +1,58 @@
+    1  ls
+    2  ls
+    3  cd proficiency-1-jr78275
+    4  ls
+    5  git status
+    6  git add .
+    7  git commit -m "potential fix"
+    8  git push origin main
+    9  git push
+   10  quit
+   11  exit
+   12  ls
+   13  make debug
+   14  make check
+   15  make check
+   16  ls
+   17  gdb ./bin/tinyheap
+   18  ls
+   19  gdb ./bin/tinyheap
+   20  history
+   21  gdb ./bin/tinyheap
+   22  pwd
+   23  git status
+   24  cd ..
+   25  ls
+   26  rm -ri proficiency-1-jr78275
+   27  yy
+   28  y
+   29  yy
+   30  y
+   31  git pull git@github.com:JohnRamirez57/proficiency-1-jr78275.git
+   32  git pull https://github.com/JohnRamirez57/proficiency-1-jr78275.git
+   33  it clone johnrami@ammolite:~$ git pull git@github.com:JohnRamirez57/proficiency-1-jr78275.git
+   34  fatal: not a git repository (or any parent up to mount point /u)
+   35  Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+   36  johnrami@ammolite:~$ git pull https://github.com/JohnRamirez57/proficiency-1-jr78275.git
+   37  fatal: not a git repository (or any parent up to mount point /u)
+   38  Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not s
+   39  git clone git@github.com:JohnRamirez57/proficiency-1-jr78275.git
+   40  ls
+   41  rmdir proficiency-1-jr78275
+   42  cd ~
+   43  rm -rf proficiency-1-jr78275
+   44  ls
+   45  git clone git@github.com:JohnRamirez57/proficiency-1-jr78275.git
+   46  make debug
+   47  make check
+   48  git status
+   49  git add .
+   50  git commit -m "potential fix"
+   51  git push origin main
+   52  make debug
+   53  make clean
+   54  make debug
+   55  ls
+   56  gdb ./bin/tinyheap
+   57  make check
+   58  history > shell_logs.txt
